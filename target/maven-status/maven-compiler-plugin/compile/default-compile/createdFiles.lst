@@ -1,0 +1,5 @@
+model\entities\Person.class
+com\estudando\generics\Generics.class
+model\entities\Student.class
+model\entities\Teacher.class
+model\service\PrintServices.class
